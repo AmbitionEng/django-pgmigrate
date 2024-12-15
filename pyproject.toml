@@ -29,7 +29,7 @@ exclude = [
 ]
 version = "0.0.0"
 description = "Less downtime during migrations."
-authors = ["Opus 10 Engineering"]
+authors = ["Ambition Engineering"]
 classifiers = [
   "Intended Audience :: Developers",
   "Operating System :: OS Independent",
@@ -47,8 +47,8 @@ classifiers = [
 ]
 license = "BSD-3-Clause"
 readme = "README.md"
-homepage = "https://github.com/Opus10/django-pgmigrate"
-repository = "https://github.com/Opus10/django-pgmigrate"
+homepage = "https://github.com/AmbitionEng/django-pgmigrate"
+repository = "https://github.com/AmbitionEng/django-pgmigrate"
 documentation = "https://django-pgmigrate.readthedocs.io"
 
 [tool.poetry.dependencies]
