@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.0 (2025-11-30)
+
+#### Changes
+
+  - Drop Python 3.9 support, add Python 3.14 support, add Postgres 18 support, add Django 6.0 support by [@wesleykendall](https://github.com/wesleykendall) in [#13](https://github.com/AmbitionEng/django-pgmigrate/pull/13)
+
 ## 1.5.1 (2024-12-15)
 
 #### Changes
