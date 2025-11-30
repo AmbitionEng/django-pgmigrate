@@ -38,7 +38,7 @@ You can configure `django-pgmigrate` to show blocked queries instead of automati
 
 ## Compatibility
 
-`django-pgmigrate` is compatible with Python 3.9 - 3.13, Django 4.2 - 5.1, Psycopg 2 - 3, and Postgres 13 - 17.
+`django-pgmigrate` is compatible with Python 3.10 - 3.14, Django 4.2 - 6.0, Psycopg 2 - 3, and Postgres 14 - 18.
 
 ## Documentation
 
